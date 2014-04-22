@@ -4,9 +4,7 @@ A simple geocoder for [node](http://nodejs.org).
 
 ## Installation
 
-	$ npm install git://github.com/gavreh/simple-geocoder.git
-	
-(npm repo coming soon)
+	$ npm install simple-geocoder
 
 ## Example Usage
 
