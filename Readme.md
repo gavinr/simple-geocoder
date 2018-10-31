@@ -1,3 +1,6 @@
+## ❗❗ Deprecated - Please use [arcgis-rest-js::arcgis-rest-geocoder](https://esri.github.io/arcgis-rest-js/api/geocoder/)
+
+
 # simple-geocoder
 
 A simple geocoder for [node](http://nodejs.org).
